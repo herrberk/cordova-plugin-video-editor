@@ -5,7 +5,7 @@ repositories{
 }
 
 dependencies {
-    compile 'com.github.herrberk:android-transcoder:ce3b4150ce'
+    compile 'com.github.herrberk:android-transcoder:master'
 }
 
 android {
